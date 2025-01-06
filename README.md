@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a  data scientist in healthcare 🫀
+
+
 <!--
 **francescacavallo/francescacavallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

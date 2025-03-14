@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Data scientist in healthcare 🫀 
+
 Currently a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
 
 

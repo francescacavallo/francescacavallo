@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a  data scientist in healthcare 🫀
+Data scientist in healthcare 🫀 Currently a Research Associate in the Department of Epidemiology and Biostatistics at the Imperial College School of Public Health.
 
 
 <!--
